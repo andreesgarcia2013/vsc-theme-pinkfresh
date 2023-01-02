@@ -1,0 +1,30 @@
+{
+  "name": "pink-fresh",
+  "displayName": "pink fresh",
+  "description": "tema rosa oscuro",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink Fresh",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pink Fresh-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/pinkfresh_logo.png",
+  "author": {
+    "name": "José García",
+    "url": "https://github.com/andreesgarcia2013"
+  },
+  "repository": {
+    "url": "https://github.com/andreesgarcia2013/vsc-theme-pinkfresh.git",
+    "type": "git"
+  }
+}

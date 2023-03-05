@@ -1,8 +1,22 @@
-<em> # Pink Fresh a theme for Visual Studio Code. </em>
-![Logo](https://raw.githubusercontent.com/andreesgarcia2013/vsc-theme-pinkfresh/main/icons/pinkfresh_logo.png)
 
-:construction: Proyecto Mejorando... :construction:
 
-*Un tema rosa oscuro minimalista*
+# Pink Fresh
+![Banner](https://raw.githubusercontent.com/andreesgarcia2013/vsc-theme-pinkfresh/main/assets/pinkfreshbanner.png)
 
-| [<img src="https://avatars.githubusercontent.com/u/83853064?v=4" width=115><br><sub>Andrés García</sub>](https://github.com/andreesgarcia2013)
+Pink fresh its minimalist dark pink theme with light pastel tones.
+
+[![pinkfresh](https://img.shields.io/badge/Theme-pinkfresh-%23eba18e)](https://marketplace.visualstudio.com/items?itemName=Andrs-G.pink-fresh) 
+[![pinkfresh](https://img.shields.io/visual-studio-marketplace/i/Andrs-G.pink-fresh?color=%23eba18e&label=VSDownloads&logo=Visual%20Studio%20Code)](https://marketplace.visualstudio.com/items?itemName=Andrs-G.pink-fresh)
+[![pinkfresh](https://img.shields.io/visual-studio-marketplace/v/Andrs-G.pink-fresh?color=%23eba18e&logo=Visual%20Studio%20Code)](https://marketplace.visualstudio.com/items?itemName=Andrs-G.pink-fresh)
+ 
+## Installation
+ 1. Open Extensions on the sidebar
+ 2. Search for "**pink fresh**"
+ 3. Install it
+ 4. Select "**pink fresh**" in the list
+ 5. Wow! 
+
+## Screenshots  
+
+![App Screenshot](https://lanecdr.org/wp-content/uploads/2019/08/placeholder.png)
+

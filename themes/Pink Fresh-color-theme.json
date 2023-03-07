@@ -6,7 +6,7 @@
 		"editor.foreground": "#eefff6",
 		"activityBarBadge.background": "#d49181",
 		"sideBarTitle.foreground": "#eba18e",
-		"statusBar.background": "#80a5f3",
+		"statusBar.background": "#666f8d",
 		"activityBar.background": "#302c3c",
 		"sideBar.background": "#2d2938",
 		"list.hoverBackground": "#231f2b",
@@ -41,7 +41,13 @@
 		"editorSuggestWidget.highlightForeground": "#ffffff",
 		"statusBar.debuggingBackground": "#391e52",
 		"focusBorder": "#00000000",
-		"minimap.background": "#2d2938"
+		"minimap.background": "#2d2938",
+		"peekView.border": "#fca099",
+		"peekViewEditor.background": "#302c3c",
+		"peekViewEditorGutter.background": "#2d2938",
+		"peekViewResult.background": "#2d2938",
+		"peekViewTitle.background": "#2d2938"
+
 		
 		
 		
@@ -90,7 +96,7 @@
 		  {
 			"scope": ["entity.other.attribute-name", "entity.other.inherited-class"],
 			"settings": {
-			  "foreground": "#F6C177"
+			  "foreground": "#fffaad"
 			}
 		  },
 		  {
@@ -114,7 +120,7 @@
 		  {
 			"scope": ["meta.tag", "meta.brace"],
 			"settings": {
-			  "foreground": "#E0DEF4"
+			  "foreground": "#6bfabe"
 			}
 		  },
 		  {
@@ -174,7 +180,7 @@
 		  {
 			"scope": ["support.function"],
 			"settings": {
-			  "foreground": "#EB6F92"
+			  "foreground": "#eb6f6f"
 			}
 		  },
 		  {
@@ -192,7 +198,7 @@
 			  "variable.argument"
 			],
 			"settings": {
-			  "foreground": "#c5ffc3"
+			  "foreground": "#f89cd9"
 			}
 		  },
 		  {

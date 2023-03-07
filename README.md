@@ -18,5 +18,6 @@ Pink fresh its minimalist dark pink theme with light pastel tones.
 
 ## Screenshots  
 
-![App Screenshot](https://lanecdr.org/wp-content/uploads/2019/08/placeholder.png)
+![App Screenshot](https://raw.githubusercontent.com/andreesgarcia2013/vsc-theme-pinkfresh/main/assets/mateapp.png)
 
+![App Screenshot](https://raw.githubusercontent.com/andreesgarcia2013/vsc-theme-pinkfresh/main/assets/reactjs.png)
